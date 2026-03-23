@@ -1,0 +1,4 @@
+Javascript 
+   ->Javascript is the scripting language and prigramming language.
+   ->Javascript was introduced in the year 1994
+   
