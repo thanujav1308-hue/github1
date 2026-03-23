@@ -1,4 +1,42 @@
 Javascript 
-   ->Javascript is the scripting language and prigramming language.
-   ->Javascript was introduced in the year 1994
-   
+   ->Javascript is the scripting language and programming language.
+   ->Javascript was introduced in the year 1994 
+   ->javascript was craeted in 1994 by Brendan Eich.
+   ->first name of Javascript was Mocha.
+   ->javascript was standardized by EMCA
+   ->ES1(1997):first version of ECMAscript.
+   ->ES6(2015):satble version.
+   ->Javascript is a dyanamically typed programming language.
+   ->Javascript support single call satck.
+
+Variables:
+    ->it is a container to store the values.
+    Key words to declare varibles
+    1.Let
+    2.Var
+    3.const
+
+Datatypes:
+1.primitive(immutable)
+ ->number
+ ->string
+ ->null
+ ->undefined
+ ->bigInt
+ ->boolean
+ ->symbol
+2.Non primitive(mutable)
+object de-reference
+ ->arrays
+ ->functions 
+ ->objects
+ ->classtypes
+
+Functions
+  ->user defined
+  ->pre defined
+types of functions
+ >normal functions
+ >arrow function.
+ >higher order function.
+ >call back function.
